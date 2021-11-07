@@ -1,4 +1,4 @@
-package arman.corp.gennews
+package arman.corp.adaderana
 
 import io.flutter.embedding.android.FlutterActivity
 
