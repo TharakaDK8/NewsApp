@@ -1,1 +1,0 @@
-enum UserStatus { stopped, loading, success, error }
